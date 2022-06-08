@@ -7,13 +7,18 @@ let s:default_preset = 'powerline'
 let s:default_status_justify = 'centre'
 
 let s:powerline_separators = {
-    \ 'left' : '',
-    \ 'left_alt': '',
-    \ 'right' : '',
-    \ 'right_alt' : '',
-    \ 'space' : ' '}
+    " \ 'left' : '',
+    " \ 'left_alt': '',
+    " \ 'right' : '',
+    " \ 'right_alt' : '',
+    " \ 'space' : ' '
+    \ 'left': '',
+    \ 'left_alt': '',
+    \ 'right': '',
+    \ 'right_alt': '',
+    \ 'space': ' '}
 
-let s:simple_separators = {
+    let s:simple_separators = {
     \ 'left' : '',
     \ 'left_alt': '|',
     \ 'right' : '',
