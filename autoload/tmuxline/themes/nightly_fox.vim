@@ -2,14 +2,14 @@
 " inspired by htttp://paulrouget.com/e/myconf/
 function! tmuxline#themes#nightly_fox#get()
     return {
-        \ 'a'       : [ 198, 16 ],
+        \ 'a'       : [ 171, 16 ],
         \ 'b'       : [ 208, 16 ],
         \ 'c'       : [ 208, 16 ],
         \ 'x.dim'   : [ 243, 16 ],
         \ 'x'       : [ 208, 16 ],
         \ 'y.dim'   : [ 243, 16 ],
         \ 'y'       : [ 208, 16 ],
-        \ 'z'       : [ 198, 16 ],
+        \ 'z'       : [ 171, 16 ],
         \ 'bg'      : [ 208, 16 ],
         \ 'win'     : [ 231, 16 ],
         \ 'win.dim' : [ 243, 16 ],
